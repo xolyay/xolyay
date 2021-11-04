@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://es.bloggif.com/tmp/fb8ba18afda80a0ff43388fc8eef867c/text.gif?1635935689)
+
 
 ### Mi nombre es Yolanda 👋
 #### Desarrollador web junior full-stack 🖱️ actualmente en **búsqueda activa** de empleo:
